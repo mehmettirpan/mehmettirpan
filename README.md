@@ -4,7 +4,7 @@ Hi 👋 My name is Mehmet
 Computer Engineer
 -----------------
 
-I'm a Computer Engineering student. I'm interested in C# and Python.
+I'm a Computer Engineering student. I'm interested in C language and Python.
 
 * 🌍  I'm based in Istanbul
 * ✉️  You can contact me at [mehmettirpan92@gmail.com](mailto:mehmettirpan92@gmail.com)
