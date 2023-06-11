@@ -6,7 +6,7 @@ Computer Engineer
 
 I'm a Computer Engineering student. I'm interested in Swift language and Python.
 
-* 🌍  I'm based in Istanbul
+* 🌍  I'm based Istanbul in TURKEY
 * ✉️  You can contact me at [mehmettirpan92@gmail.com](mailto:mehmettirpan92@gmail.com)
 
 ### Skills
