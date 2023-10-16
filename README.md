@@ -23,8 +23,7 @@ I'm a Computer Engineering student. I'm interested in Swift language and Python.
 
 <p align="left"> <a href="https://www.github.com/mehmettirpan" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a <a href="https://www.linkedin.com/in/mehmet-tırpan-41bb86105/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.stackoverflow.com/users/18847312/mehmet-tırpan" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/mehmet_tirpan" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" 
 <a href="https://kaggle.com/mehmettrpan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="mehmettrpan" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/@mehmettirpan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@mehmettirpan" height="30" width="40" /></a>
-/></a></p>
+<a href="https://www.hackerearth.com/@mehmettirpan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@mehmettirpan" height="30" width="40"/></a></p>
 
 ### Badges
 
