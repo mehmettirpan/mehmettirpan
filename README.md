@@ -4,7 +4,7 @@ Hi 👋 My name is Mehmet
 Computer Engineer
 -----------------
 
-I'm a Computer Engineer. I'm interested in Swift language and Python.
+I'm a Computer Engineer. I'm coding Swift and Python programming.
 
 * 🌍  I'm based Istanbul in TURKEY
 * ✉️  You can contact me at [mehmettirpan92@gmail.com](mailto:mehmettirpan92@gmail.com)
